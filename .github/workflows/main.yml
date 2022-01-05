@@ -1,7 +1,7 @@
 name: 双签【葫芦侠】【芥子空间】
 on: 
   schedule:
-          - cron:  '00 00,19 * * *'
+          - cron:  '16 18,19 * * *'
              # 凌晨3：30分和晚上23:30运行
   watch:
     types: started    #手动star执行
